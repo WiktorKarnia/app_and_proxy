@@ -25,6 +25,4 @@
     - ### Publiczny adres IP: 18.192.42.44
     - ### Prywatny adres IP: 172.31.21.20
 ### Wszystkie połączenia z serwerem proxy przekierowywane są na serwer z uruchomiona naszą aplikacja Flask na adres 172.31.28.223 do portu 8080.
-![app_test_0](pic/ExampleApp_0.jpg)
-
-![app_test](pic/ExampleApp.jpg)
+![app_test](pic/ExampleAPP.jpg)
